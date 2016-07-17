@@ -39,7 +39,7 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 - Describe a problem you’ve solved or a problem you’d like to solve. It can be an intellectual challenge, a research query, an ethical dilemma-anything that is of personal importance, no matter the scale. Explain its significance to you and what steps you took or could be taken to identify a solution.
 - Discuss an accomplishment or event, formal or informal, that marked your transition from childhood to adulthood within your culture, community, or family.
 
-A template that meets this standard is [here](/assets/cpp_template_outline.doc).
+A template that meets this standard is [here](/cppbook/assets/cpp_template_outline.doc).
 
 ### Core Assignment #2:  Common App Essay #1 Revision 1
 
@@ -49,7 +49,7 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 - Describe a problem you’ve solved or a problem you’d like to solve. It can be an intellectual challenge, a research query, an ethical dilemma-anything that is of personal importance, no matter the scale. Explain its significance to you and what steps you took or could be taken to identify a solution.
 - Discuss an accomplishment or event, formal or informal, that marked your transition from childhood to adulthood within your culture, community, or family.
 
-Our essay template is [here](/assets/cpp_essay_template.doc).
+Our essay template is [here](/cppbook/assets/cpp_essay_template.doc).
 
 ### Core Assignment #3:  Study Skills 1: Learning Assessment
 
@@ -75,7 +75,7 @@ In summary, you will turn in TWO small essays as a single document, each corresp
 ### Core Assignment #5:  CPP Application Self-Review
 
 To receive credit, you must identify at least 5 strengths and 5 weaknesses and discuss in sentence/paragraph form, and you must use our template. :)
-The template is [here](/assets/cpp_template_appreview.doc).
+The template is [here](/cppbook/assets/cpp_template_appreview.doc).
 
 ### Core Assignment #6:  Portfolio:  CPP Summary Sheet v0
 
