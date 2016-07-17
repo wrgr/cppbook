@@ -11,7 +11,8 @@ title: CPP Book
 subtitle: "Class Companion for the College Prep Program at APL"
 email: will@collegeprepprogram.org
 name: Will Gray Roncal
-description: "Class Companion for the College Prep Program at APL"
+description: ""
+# Class Companion for the College Prep Program at APL"
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
