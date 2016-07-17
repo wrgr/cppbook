@@ -18,7 +18,7 @@ description: >
 # root of your server.
 baseurl: "/cppbook" # the subpath of your site, e.g. /blog/
 url: "http://wrgr.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.png"
+cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -85,7 +85,7 @@ social:
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/wrgr
     desc: Fork me on GitHub
     share: false
 
