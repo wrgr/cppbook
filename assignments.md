@@ -54,7 +54,7 @@ Our essay template is [here](/cppbook/assets/cpp_essay_template.doc).
 ### Core Assignment #3:  Study Skills 1: Learning Assessment
 
 What is your learning style?
-Find out your learning style by taking the [VARK Questionnaire]((http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/) ). Read about what the results mean. Write a brief (one page) plan on how you plan to incorporate what you have learned into your study habits. Be specific by providing examples.
+Find out your learning style by taking the [VARK Questionnaire](http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/). Read about what the results mean. Write a brief (one page) plan on how you plan to incorporate what you have learned into your study habits. Be specific by providing examples.
 The document should contain the following:
 A.	VARK scores for each. Example:
 - Visual: 12
@@ -77,18 +77,16 @@ In summary, you will turn in TWO small essays as a single document, each corresp
 To receive credit, you must identify at least 5 strengths and 5 weaknesses and discuss in sentence/paragraph form, and you must use our template. :)
 The template is [here](/cppbook/assets/cpp_template_appreview.doc).
 
-### Core Assignment #6:  Portfolio:  CPP Summary Sheet v0
+### Core Assignment #6:  (Portfolio) CPP Summary Sheet v0
 
 To receive credit, you should draft a 1-page dashboard following the instructions in the Parent Workshop.  The six categories are:  grades, testing, impact and initiative, essays, polish, and money.  List your current plans and progress for each of the categories and also where you are and where you plan to be in:  October and when you apply for college.  We will go over these in lots of detail next week!  A picture from the board is below.
 
-### Core Assignment #7:  Study Skills 2: Time Management
+### Core Assignment #7:  Study Skills 2 Time Management
 
 Prepare a schedule for this summer  that reflects your activities and responsibilities on the appropriate time slot (as shown on the example that was sent to you previously). The schedule should be parsed in 1-hr intervals, and contain as much specific details as possible. If things change week to week, then remove the detail and leave it more generic. For example, if your volunteering activities change every week, then just label it “Volunteering Activity,” but if it is specific, add the detail “Volunteer at Soup Kitchen.” For the orange portion (college preparation), you MUST to be specific for the type of work you will be doing. It is NOT ok to just write, “SAT Khan Academy” without it saying, “SAT Khan Academy: Math videos” or “SAT Khan Academy Math Problems.” Remember that the allocation of task needs to reflect what YOU need to be working on this summer.
 To complete this assignment, you will start with the file that was sent to you containing a sample schedule. Make the adjustments to fit YOUR schedule and responsibilities/activities. You will “print” the schedule as a PDF, making sure that it fits into one readable page (or 2 if needed).  [We will send this in a couple of days…start on the other assignments]
 
 
-### Core Assignment #8
-
-Who Am I Drawing Assignment?
+### Core Assignment #8:  Who Am I Drawing Assignment?
 
 Draw on a regular sized sheet of paper about yourself.  This can be using any media of your choice (paint, markers, pencils, collage…) This is not limited to, but can include:  characteristics about yourself, your personality, interests, activities, family, and priorities.
