@@ -113,33 +113,107 @@ Draw on a regular sized sheet of paper about yourself.  This can be using any me
 
 ### Core Assignment 9 -  Participation: 1st half
 
+This point is largely based on participation (questions and answers) in the online forum. Class participation will also be considered. As a general guideline, you should be asking AND answering a question an average of about 1/day (2 total).
+
 #### [](#ca010)
 
 ### Core Assignment 10 - Webapp Scavenger Hunt
+
+Instructions: Please login to the Webapp (http://www.cppapp.org) and perform the following tasks. The intent of this exercise is to get you familiar with the basic functionalities of the Webapp.
+
+- In the “Core Assignments” tab, how many assignments are due on June 11?
+- In the “References” tab, study the content of the “Save as PDF” reference in the “Tech How-tos” category. What is the red arrow pointing at?
+- In the Forum tab, create a new topic in the “Introduce Yourself” Channel and introduce yourself to the class. The title of the topic should be your first and last name
+- In the Contact Tab, what is the email address of the student below you?
+- In the Progress Report tab, how many participation points are there to be earned? How many total points are there to be earned?
+- Compile all your answers for this Scavenger Hunt in a word document and then upload it as assignment 10 in the Core Assignments tab. Remember, you need to convert your document to .pdf before uploading.
 
 #### [](#ca011)
 
 ### Core Assignment 11 - Standout Factor Homework + Leadership Plans: Poster
 
+Develop a one page Powerpoint, Word, or hand-drawn poster that showcases your standout factors, and emphasizes your theme. This will help you learn how you plan to package your accomplishments when applying to college.
+
+**The result must be one page If you prefer to illustrate on paper, you may bring us a hardcopy for us to scan.**
+
 #### [](#ca012)
 
 ### Core Assignment 12 -  Standout Factor Homework + Leadership Plans: Written
 
+*This activity uses a digital template, found on the webapp!*
+
+After completing the Standout Factor Poster, fill out this digital template. You should represent 3 key ideas, one on each sheet of the template and also list future plans and leadership ideas on your digital worksheet. Be creative!
+
+You can include anything from academics to sports to school clubs, JROTC, community service, membership in a band...but this is a place to really focus on what’s most important, not everything you do! You want to organize them into a cohesive theme, showcasing your strengths.
+
+For each activity, you will be asked to answer the following questions: - Standout Factor Quality
+- Description (2-3 sentences)
+- What have you done so far?
+- What do you plan to do?
+- How are you/will you show leadership?
+
 #### [](#ca013)
 
-### Core Assignment 13 -  Common App Essay #2 Revision 1
+### Core Assignment 13 -  Common App Essay 2 Revision 1
+
+Please select and complete an second essay on one of the topics for next year’s Common App. The prompts can be found in the Application Prep section of this book. Be sure that you label your essay with your name, assignment number, and prompt. Your essay must be between 250 – 650 words. Aim for at least 600. We will recommend a prompt this year!
+
+For prompts and more guidance, please see the section on Application Prep
+
+Our two recommended prompts this year are (you may choose your own if you prefer):
+
+- Describe a problem you’ve solved or a problem you’d like to solve. It can be an intellectual challenge, a research query, an ethical dilemma-anything that is of personal importance, no matter the scale. Explain its significance to you and what steps you took or could be taken to identify a solution.
+
+- Discuss an accomplishment or event, formal or informal, that marked your transition from childhood to adulthood within your culture, community, or family.
+
+Remember the ideas that we discussed in class!!!
 
 #### [](#ca014)
 
 ### Core Assignment 14 - School Pool Activity Poster
 
+This activity was designed by Marcus N. and his group during CPP2011.
+
+School Pool is broken down into three separate parts:
+- Poster (This assignment)
+- Presentation
+- Worksheet
+
+Go to the forum and claim your school. You have to choose from one of the top schools! First come, first-served - no duplicates, please.
+
+Create a one-page visual display for your audience such as a Powerpoint or poster. Research your school in detail and complete your worksheet. In addition to general facts, include information that you would learn on a college tour. For example: what makes the school stand out, unique opportunities on campus, and other selling factors.
+
+**The result must be one page If you prefer to illustrate on paper, you may bring us a hardcopy for us to scan.**
+
+You should answer the following questions:
+- General information (size, number of students, location, US News ranking, tuition, student to professor ratio, percent of applicants admitted, etc.)
+- History (founder, year founded, original name) - What makes this school stand out?
+- Opportunities on campus and outside of campus
+- Financial aid (Average percentage of need met, loan options, merit scholarships)
+- Other Information Important to You - Fun/Unusual Facts
+
 #### [](#ca015)
 
 ### Core Assignment 15 -  School Pool Activity Digital Template
 
+*This activity uses a digital template, found on the webapp!*
+
+Research your school in detail and complete this worksheet. In addition to general facts, find information that you would learn on a college tour. For example: what makes the school stand out, unique opportunities on campus, and other selling factors.
+
+You should answer the following questions:
+
+- General information (size, number of students, location, US News ranking, tuition, student to professor ratio, percent of applicants admitted, etc.)
+- History (founder, year founded, original name) - What makes this school stand out?
+- Opportunities on campus and outside of campus
+- Financial aid (Average percentage of need met, loan options, merit scholarships) - Other Information Important to You
+- Fun/Unusual Facts
+
 #### [](#ca016)
 
 ### Core Assignment 16 -  College List 1
+
+Explore colleges that you are interested in, and develop a first-draft list of 24 schools, distributed between Dream, Reach, Match, and Safety schools. Consider top-ranked schools and schools with generous aid. Please use the materials provided elsewhere in the class companion for help. (These materials will continue to be added over the next few days.)
+
 
 #### [](#ca017)
 
@@ -147,11 +221,24 @@ Draw on a regular sized sheet of paper about yourself.  This can be using any me
 
 #### [](#ca018)
 
+You will together a one page slide with information about a Top School to share with the CPP class. You should prepare a 3 minute presentation – we will call on you at random one week to present.
+
+Be practicing and prepared to give a short 90 second presentation with your standout factor and a 2.5 minute presentation about your school!
+
 ### Core Assignment 18 -  Great Discovery
 
 #### [](#ca019)
 
+The Great Discovery worksheet will help you to think about your future goals, who you are, and what is most important to you. You will also develop a personal mission statement.
+
+Please use the digital template, which also asks questions about your personal and professional role models.
+
+This activity is adapted from [Sean Covey](www.seancovey.com/pdf/teens/The_Great_Discovery.pdf).
+
+
 ### Core Assignment 19 -  Mentor Activity I
+
+Completed during class - developing standout factors!
 
 #### [](#ca020)
 
@@ -162,6 +249,9 @@ Draw on a regular sized sheet of paper about yourself.  This can be using any me
 ### Core Assignment 21 -  Porfolio Check 1
 
 #### [](#ca022)
+
+Information on this activity will be provided shortly.  Please check the online version for the latest information.
+
 
 ### Core Assignment 22 -  Scholarship Application Part I Revision 1
 
@@ -188,6 +278,8 @@ Draw on a regular sized sheet of paper about yourself.  This can be using any me
 #### [](#ca028)
 
 ### Core Assignment 28 -  Resume Revision 1
+
+
 
 #### [](#ca029)
 
@@ -290,6 +382,17 @@ Draw on a regular sized sheet of paper about yourself.  This can be using any me
 
 ### Core Assignment 53 - Self Reflection 5
 
+For this week’s self-reflection you will share your thoughts about the College Prep Program! We are half-way through the program and we have LOVED getting to know you and your dreams. Your CPP family of leads, coaches, and mentors are here to help and give you a great summer experience. But we want to know what YOU think so that we can best shape the rest of the program.
+
+Please write a 1.5-page (minimum, you are welcome to write more) answering the following questions:
+
+- How much do you feel like you have learned since our first college prep class? Give us some examples.
+- Which portions of the program do you like best? Feel free to discuss what you like best and also what is helping you the most. (Sometimes we don’t like things that are really helpful...so feel free to explain!)
+- How do you feel college prep could help you even more? Feel free to discuss questions that you STILL have about college (or beyond), careers, dreams, etc. We may have covered a few things that are still not clear to you (or maybe we haven’t gotten to something you were hoping that we would), so feel free to let us know.
+- Are you having fun? In class or with coaches and mentors, or through other activities? Let us know how we could make the program more fun.
+- How is your interaction with your SAT coach and mentor? Please share and let us know what you like or if there is anything that would make this part of the program better for you.
+- Is there anything else you’d like to share with us? Please do! If there is anything that would make the process better for you, we want to know!
+
 #### [](#ca054)
 
 ### Core Assignment 54 - Mentor Activity III
@@ -305,6 +408,8 @@ Draw on a regular sized sheet of paper about yourself.  This can be using any me
 #### [](#ca057)
 
 ### Core Assignment 57 - Participation: 2nd half
+
+This point is largely based on participation (questions and answers) in the online forum. Class participation will also be considered. As a general guideline, you should be asking AND answering a question an average of about 1/day (2 total).
 
 #### [](#ca058)
 
