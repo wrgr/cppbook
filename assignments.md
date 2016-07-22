@@ -16,9 +16,7 @@ Papers missing a student name or assignment number will not be graded.
 
 ## Core assignments
 
-#### [](#ca001)
-
-### Core Assignment #1:  College Essay Outlines
+### Core Assignment #1:  College Essay Outlines  [](#ca001)
 
 Outline two candidate essay topics from the Common Application Essay Prompts, being sure to express your main ideas and supporting points. Choose topics that will let you express your accomplishments and your unique voice!
 It is not required that you follow this exact format for an outline, because 650 words is relatively short, and you may wish to write in a slightly different format. However, we strongly encourage using this template to capture all of your ideas.
