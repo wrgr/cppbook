@@ -41,7 +41,7 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 
 A template that meets this standard is [here](/cppbook/assets/cpp_template_outline.doc).
 
-### Core Assignment #2:  Common App Essay #1 Revision 1
+### Core Assignment #2:  Common App Essay #1 Revision 1 [](#ca002)
 
 Please select and complete an essay on one of the topics for next year’s Common App. The prompts can be found in the Application Prep section of this book. Be sure that you label your essay with your name, assignment number, and prompt. Your essay must be between 250 – 650 words. Aim for at least 500. We will recommend a prompt this year!
 
@@ -51,7 +51,7 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 
 Our essay template is [here](/cppbook/assets/cpp_essay_template.doc).
 
-### Core Assignment #3:  Study Skills 1: Learning Assessment
+### Core Assignment #3:  Study Skills 1: Learning Assessment [](#ca003)
 
 What is your learning style?
 Find out your learning style by taking the [VARK Questionnaire](http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/). Read about what the results mean. Write a brief (one page) plan on how you plan to incorporate what you have learned into your study habits. Be specific by providing examples.
