@@ -41,7 +41,7 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 
 A template that meets this standard is [here](/cppbook/assets/cpp_template_outline.doc).
 
-### Core Assignment #2:  Common App Essay #1 Revision 1 [](#ca002)
+### Core Assignment #2:  Common App Essay #1 Revision 1
 
 Please select and complete an essay on one of the topics for next year’s Common App. The prompts can be found in the Application Prep section of this book. Be sure that you label your essay with your name, assignment number, and prompt. Your essay must be between 250 – 650 words. Aim for at least 500. We will recommend a prompt this year!
 
@@ -51,7 +51,7 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 
 Our essay template is [here](/cppbook/assets/cpp_essay_template.doc).
 
-### Core Assignment #3:  Study Skills 1: Learning Assessment [](#ca003)
+### [Core Assignment 3](#ca003) Study Skills 1: Learning Assessment
 
 What is your learning style?
 Find out your learning style by taking the [VARK Questionnaire](http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/). Read about what the results mean. Write a brief (one page) plan on how you plan to incorporate what you have learned into your study habits. Be specific by providing examples.
@@ -64,7 +64,7 @@ A.	VARK scores for each. Example:
 B.	Plan for incorporating these findings into your individualized study approach as your prepare to take the SAT. How will you study for math? writing? verbal?
 Visit [this link](http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/) to complete the survey. Do not overthink the questions. Pick what fits YOU best. Also, you can pick more than one if there is not a winner out of the four choices.
 
-### Core Assignment #4:  Self Reflection #1: (Not) Killing Your Dreams
+### [Core Assignment 4](#ca004)  Self Reflection #1: (Not) Killing Your Dreams
 
 For this week’s self-reflection assignment, you will do the following
 1.	Read [10 differences between a dream and a goal](https://timemanagementninja.com/2013/04/10-big-differences-between-goals-and-dreams-that-you-must-know/), and write a brief (0.5-1 page, double spaced) essay that discusses the following: what are your personal dreams? This essay will focus on dreams (instead of goals), therefore feel free to express what you are thinking, even if it seems far out of reach or “crazy.” Make sure to include at least one personal (ie. family, friends, etc) and one professional (career, type of work, etc) dream. One way to think about this is to imagine yourself in about 5-10 years and think about what is making you happy and so excited about life!
