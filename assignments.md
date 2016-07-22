@@ -51,7 +51,8 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 
 Our essay template is [here](/cppbook/assets/cpp_essay_template.doc).
 
-### [Core Assignment 3](#ca003) Study Skills 1: Learning Assessment
+#### [](#ca003)
+### Core Assignment 3 Study Skills 1: Learning Assessment
 
 What is your learning style?
 Find out your learning style by taking the [VARK Questionnaire](http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/). Read about what the results mean. Write a brief (one page) plan on how you plan to incorporate what you have learned into your study habits. Be specific by providing examples.
