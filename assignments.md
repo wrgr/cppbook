@@ -1,18 +1,19 @@
-- -
+---
 layout: page
 title: assignments
 permalink: /assignments/
-- -
+---
+
 ## General instructions
 
--  All essays and responses of a paragraph or longer MUST be typed.  
+- All essays and responses of a paragraph or longer MUST be typed.  
 Papers missing a student name or assignment number will not be graded.
--  All homework is due by 9a Friday to your google drive folder.  This week only!
--  Self reflection assignment is due by 9p Friday to give you time to reflect.
--  On Fridays, you should still do CPP – but work on a topic you need help with most (more SAT, looking for scholarships…)
--  Bring your who am I drawings to class on Saturday
--  Keep a simple timelog of your CPP time each day and bring to class next week.
--  *Check your email everyday!!!*
+- All homework is due by 9a Friday to your google drive folder.  This week only!
+- Self reflection assignment is due by 9p Friday to give you time to reflect.
+- On Fridays, you should still do CPP – but work on a topic you need help with most (more SAT, looking for scholarships…)
+- Bring your who am I drawings to class on Saturday
+- Keep a simple timelog of your CPP time each day and bring to class next week.
+- *Check your email everyday!!!*
 
 ## Core assignments
 
@@ -34,7 +35,7 @@ Your outlines should each have the following parts:
 - Supporting Point 2 (+ Related ideas, stories, examples)
 - Supporting Point 3 (+ Related ideas, stories, examples)
 - Conclusion
--
+
 For prompts please see the [Common App Website](http://www.commonapp.org/whats-appening/application-updates/common-application-announces-2016-2017-essay-prompts).     
 
 Our two recommended prompts this year are (you may choose your own if you prefer):
@@ -62,12 +63,14 @@ Our essay template is [here](/cppbook/assets/cpp_essay_template.doc).
 What is your learning style?
 Find out your learning style by taking the [VARK Questionnaire](http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/). Read about what the results mean. Write a brief (one page) plan on how you plan to incorporate what you have learned into your study habits. Be specific by providing examples.
 The document should contain the following:
-A.- VARK scores for each. Example:
+
+A. VARK scores for each. Example:
 - Visual: 12
 - Aural: 7
 - Read/Write: 0
 - Kinesthetic: 14
-B.- Plan for incorporating these findings into your individualized study approach as your prepare to take the SAT. How will you study for math? writing? verbal?
+
+B. Plan for incorporating these findings into your individualized study approach as your prepare to take the SAT. How will you study for math? writing? verbal?
 Visit [this link](http://vark-learn.com/the-vark-questionnaire/the-vark-questionnaire-for-younger-people/) to complete the survey. Do not overthink the questions. Pick what fits YOU best. Also, you can pick more than one if there is not a winner out of the four choices.
 
 #### [](#ca004)
@@ -75,9 +78,9 @@ Visit [this link](http://vark-learn.com/the-vark-questionnaire/the-vark-question
 ### Core Assignment 4  Self Reflection #1: (Not) Killing Your Dreams
 
 For this week’s self-reflection assignment, you will do the following
-1.- Read [10 differences between a dream and a goal](https://timemanagementninja.com/2013/04/10-big-differences-between-goals-and-dreams-that-you-must-know/), and write a brief (0.5-1 page, double spaced) essay that discusses the following: what are your personal dreams? This essay will focus on dreams (instead of goals), therefore feel free to express what you are thinking, even if it seems far out of reach or “crazy.” Make sure to include at least one personal (ie. family, friends, etc) and one professional (career, type of work, etc) dream. One way to think about this is to imagine yourself in about 5-10 years and think about what is making you happy and so excited about life!
+1. Read [10 differences between a dream and a goal](https://timemanagementninja.com/2013/04/10-big-differences-between-goals-and-dreams-that-you-must-know/), and write a brief (0.5-1 page, double spaced) essay that discusses the following: what are your personal dreams? This essay will focus on dreams (instead of goals), therefore feel free to express what you are thinking, even if it seems far out of reach or “crazy.” Make sure to include at least one personal (ie. family, friends, etc) and one professional (career, type of work, etc) dream. One way to think about this is to imagine yourself in about 5-10 years and think about what is making you happy and so excited about life!
 
-2.- Next, watch the TED talk on: [5 Ways to Kill Your Dreams](https://www.ted.com/talks/bel_pesce_5_ways_to_kill_your_dreams?language=en). Then, write a brief essay (0.5-1 page, double spaced) with an example of a time when you acted or thought (or might have acted or thought) in a way that could “kill a dream,” according to the TED speaker. Be specific and share that story in your essay. (For example, you might have believed that overnight success is real and that Bill Gates became a billionaire because he is just so brilliant.) Explore your example and how you feel now after watching this TED talk.
+2. Next, watch the TED talk on: [5 Ways to Kill Your Dreams](https://www.ted.com/talks/bel_pesce_5_ways_to_kill_your_dreams?language=en). Then, write a brief essay (0.5-1 page, double spaced) with an example of a time when you acted or thought (or might have acted or thought) in a way that could “kill a dream,” according to the TED speaker. Be specific and share that story in your essay. (For example, you might have believed that overnight success is real and that Bill Gates became a billionaire because he is just so brilliant.) Explore your example and how you feel now after watching this TED talk.
 In summary, you will turn in TWO small essays as a single document, each corresponding to the tasks above.
 
 #### [](#ca005)
