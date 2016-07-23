@@ -121,12 +121,13 @@ This point is largely based on participation (questions and answers) in the onli
 
 Instructions: Please login to the Webapp (http://www.cppapp.org) and perform the following tasks. The intent of this exercise is to get you familiar with the basic functionalities of the Webapp.
 
-- In the “Core Assignments” tab, how many assignments are due on June 11?
+- In the “Core Assignments” tab, how many assignments are assigned on July 23?
 - In the “References” tab, study the content of the “Save as PDF” reference in the “Tech How-tos” category. What is the red arrow pointing at?
 - In the Forum tab, create a new topic in the “Introduce Yourself” Channel and introduce yourself to the class. The title of the topic should be your first and last name
 - In the Contact Tab, what is the email address of the student below you?
 - In the Progress Report tab, how many participation points are there to be earned? How many total points are there to be earned?
-- Compile all your answers for this Scavenger Hunt in a word document and then upload it as assignment 10 in the Core Assignments tab. Remember, you need to convert your document to .pdf before uploading.
+
+Compile all your answers for this Scavenger Hunt in a word document and then upload it as assignment 10 in the Core Assignments tab. Remember, you need to convert your document to .pdf before uploading.
 
 #### [](#ca011)
 
