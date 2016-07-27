@@ -245,6 +245,23 @@ Completed during class - developing standout factors!
 
 ### Core Assignment 20 -  Self Reflection 2
 
+In College Prep, we've talked a lot about time management, and its importance in helping you to achieve your goals (and dreams).  Close your eyes, and reflect back on how you are doing in this area of your life.  Pay specific attention to how you manage your time during normal periods, and periods of stress (like final exams)!
+
+For this assignment, you will write one short essay, approximately 1 page in total.  You should answer the following questions (in complete sentences, about a paragraph per bullet):
+
+- What is your overall approach to time managment?
+- Is it working?
+- Do you do better or worse managing your time and achieving your goals in periods of high stress?
+- Do you succeed because of good time management or do you generally manage to succeed despite not managing your time well?
+- Give at least one example of a time that you effectively managed your time for a project.
+- Give at least one example of a time when you failed to manage your time well and things didn't go so well.
+- Have you been able to stick to the time management schedules you've set in the past?  
+- Reflect on, and set a specific goal for how to improve your time management skills this summer!
+- Finally, how many hours a week do you expect you will spend in class in college?  How many hours a week do you expect to spend studying outside of class?
+
+*Be specific!!!*
+
+
 #### [](#ca021)
 
 ### Core Assignment 21 -  Porfolio Check 1
