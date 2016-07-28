@@ -168,6 +168,8 @@ Our two recommended prompts this year are (you may choose your own if you prefer
 - Discuss an accomplishment or event, formal or informal, that marked your transition from childhood to adulthood within your culture, community, or family.
 
 Remember the ideas that we discussed in class!!!
+Our essay template is [here](/cppbook/assets/cpp_essay_template.doc).
+
 
 #### [](#ca014)
 
@@ -265,6 +267,17 @@ For this assignment, you will write one short essay, approximately 1 page in tot
 #### [](#ca021)
 
 ### Core Assignment 21 -  Porfolio Check 1
+
+This assignment is designed to get you thinking about where you are headed in more detail, and to start thinking about your final portfolio (never too soon!)
+
+A template (required) can be found [here](/cppbook/assets/cpp_portfoliocheck1.docx).
+)
+- This assignment should all fit on one page please!  Double check the PDF to make sure.  
+- The dashboard is the same as what you did last week, but please add more detail (briefly).  Sentences are NOT needed here.  Make sure you score yourself NOW, in OCTOBER (after CPP) and when you apply to college (December of senior year) everywhere there are slashes  (for example 20/100 for essay now, 80/100 for essay quality in October, and 95/100 by application time).  Use whatever scales make sense to you, where 100 or the top possible score is what would be needed to get into your dream school and pay for it.  For plans, you can be very brief but give us a sense of what you're thinking.
+- The theme and standout factors are similar to what you've done in the mentoring session and in your assignments.  Feel free to reuse.  This should be in complete sentences and something you can read aloud smoothly.  Bold your one-two word standout factors.
+- For why a college should accept you, please list 3-5 reasons, in complete sentences - bullets using complete sentences are fine.  Do your best and we'll chat about it on Saturday
+- For your college list, we know you are still working on this.  So please make sure you have at least 8 schools for now, with 2 dream, 2 reach, 2 match, and 2 safety schools.  Put (D)(R)(M)(S) after each school as appropriate.  Make sure they match your dashboard
+- For priorities, please list 3-5 for this summer - they don't all have to be CPP related, but think about things that help with your future.
 
 #### [](#ca022)
 
