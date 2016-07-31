@@ -303,6 +303,15 @@ Information on this activity will be provided shortly.  Please check the online 
 
 ### Core Assignment 25 - Activities and Honors List
 
+The activities and award resume assignment is an important part of your application and is a way to showcase what you have accomplished over the past few years.  The first draft of the assignment asks you to brainstorm and list everything that you can possibly remember.
+
+Generally, you should only focus on activities beginning in 9th grade, although if you started an activity earlier, you may list it if it is especially impressive, or if you have been doing the activity for many years (for example:  Basketball, 4th grade – present).  Generally schools will give much more weight to your high school information.  
+
+In activities, remember to include everything, including jobs, volunteering, church activities, sports, clubs, service trips, and other things you do for fun.  Remember that things like student government, being in a band/music group, JROTC, cheerleading, etc. all count!
+
+Prioritize things that you have spent the most time in, and that show leadership.  You can include planned activities for future years, too!
+
+
 #### [](#ca026)
 
 ### Core Assignment 26 -  Study Skills 3:  Big and Small Rocks
@@ -311,10 +320,22 @@ Information on this activity will be provided shortly.  Please check the online 
 
 ### Core Assignment 27 -  Study Skills 4:  Previewing
 
+
+
 #### [](#ca028)
 
 ### Core Assignment 28 -  Resume Revision 1
 
+or the first version, please complete a draft of your resume.  Here are some resources to help:
+
+- A template for building your resume (strongly recommended) is available [here](/cppbook/assets/cpp_template_resume.doc).
+- Our reviewers will use the following checklist to review your resume.  Please revise your resume to satisfy all of these requirements before submitting! [CPP Resume Review Sheet](/cppbook/assets/cpp_resume_checklist.pdf) - resumes not meeting these criteria or exceeding one page (even a second blank page!) will not receive credit.  Make sure to use lots of detail and emphasize your strengths.
+
+- An example resume can be found [here](Example Resume /cppbook/assets/simpson_resume_example.pdf).
+
+You may wish to do the Resume Ninja Assignment first - it usually helps to see what good looks like and clarifies your thoughts!
+
+Recommendation:  Work with your mentor to create and revise your resume draft.  Focus on brainstorming about different activities, experience, and accomplishments that you can add to your resume.
 
 
 #### [](#ca029)
