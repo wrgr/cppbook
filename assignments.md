@@ -331,7 +331,7 @@ or the first version, please complete a draft of your resume.  Here are some res
 - A template for building your resume (strongly recommended) is available [here](/cppbook/assets/cpp_template_resume.doc).
 - Our reviewers will use the following checklist to review your resume.  Please revise your resume to satisfy all of these requirements before submitting! [CPP Resume Review Sheet](/cppbook/assets/cpp_resume_checklist.pdf) - resumes not meeting these criteria or exceeding one page (even a second blank page!) will not receive credit.  Make sure to use lots of detail and emphasize your strengths.
 
-- An example resume can be found [here](Example Resume /cppbook/assets/simpson_resume_example.pdf).
+- An example resume can be found [here](/cppbook/assets/simpson_resume_example.pdf).
 
 You may wish to do the Resume Ninja Assignment first - it usually helps to see what good looks like and clarifies your thoughts!
 
