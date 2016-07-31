@@ -286,14 +286,30 @@ A template (required) can be found [here](/cppbook/assets/cpp_portfoliocheck1.do
 
 #### [](#ca022)
 
-Information on this activity will be provided shortly.  Please check the online version for the latest information.
+### Core Assignment 22 Questbridge Application Revision 1A
 
+Questbridge is a national program that offers full scholarships (meets all remaining need) for high-achieving, low-income students through a very competitive admissions process.  
+Many CPP students are ideal candidates - the required essays are good practice for everyone.
 
-### Core Assignment 22 -  Scholarship Application Part I Revision 1
+In order to give you the most topics to choose from when filling out applications and scholarships, it is **REQUIRED** that you write a new essay with different examples and ideas than the ones that you already explored in your Common App and Gates essays!
+
+To receive credit, please:
+
+1.  Make a Questbridge account at www.questbridge.org, and begin filling out an application (nothing to turn in for this)
+2.  Answer the following prompt (the first Questbridge essay).  To receive credit, it should be between 700-800 words!  As always, please use the essay template:
+
+"We are interested in learning more about you and the context in which you have grown up, formed your aspirations, and accomplished your academic successes. Please describe the factors and challenges that have most shaped your personal life and aspirations. How have these factors helped you to grow?"
 
 #### [](#ca023)
 
-### Core Assignment 23 -  Scholarship Application Part II Revision 2
+### Core Assignment 23 -  Scholarship Activity I
+
+Please write a detailed plan for how you plan to pay for college.  Please talk with your parents and consider past conversations, as well as what you've learned about financial aid packages and school awards so far.  Do you have a reasonable path to getting school paid for?  Or do you still need to make changes to your approach (becoming a more competitive applicant, choosing schools that offer more awards, looking for and applying to scholarhips...)  
+
+Please write us a detailed plan to pay for school, including a self-evaluation and what concrete steps you plan to take to improve.  Minimum 1 full page - but we expect most students will need two pages.  :)
+
+Include a start to a list of scholarships to which you plan to apply.  (The previewing assignment has some starting points.)  We will continue to build on this in future weeks.
+
 
 #### [](#ca024)
 
@@ -320,7 +336,46 @@ Prioritize things that you have spent the most time in, and that show leadership
 
 ### Core Assignment 27 -  Study Skills 4:  Previewing
 
+**Study Skills #4:  Previewing**
 
+*Due in class on Saturday!*
+
+Every week we will send you general topics that we will be covering on the upcoming Saturday and you will be expected to spend a couple of hours per week preparing for class.   
+
+For this week's study skills assignment, you will show us how well you are previewing as part of your study process.  Because we need to assess your success in this activity (to better help you and for you to better help yourself), this week's assignment will take approximately 3-4 hours.  
+
+Topic for this Saturday: Financial Aid!! ($$$)
+More specifically, we will be discussing: the Federal Financial Aid programs, Questbridge Scholarship, other national scholarship programs, school scholarships such as UMBC Honors Scholars, and other financial aid programs through the federal government.  Relevant resources for this class:
+
+#### General information
+
+- https://studentaid.ed.gov/sa/
+- http://www.umbc.edu/financialaid/scholarship_scholars.html
+- http://www.finaid.org/scholarships/
+- http://www.finaid.org/loans/
+- http://www.finaid.org/questions/noloansforlowincome.phtml
+- http://www.fastweb.com/college-scholarships
+- http://scholarships.fastweb.com/y-high-school-seniors
+
+#### Specific Scholarships (sampling)
+
+- http://www.questbridge.org
+- https://www.training.nih.gov/programs/ugsp
+- http://www.coca-colascholarsfoundation.org/
+- http://www.jkcf.org/scholarship-programs/college-scholarship/
+- http://www.siemens-foundation.org/en/programs/the-siemens-competition-in-math-science-technology/
+- https://scholarships.uncf.org/
+- https://www.hsf.net/
+
+**You do NOT need to turn in anything.  The way we will know how well you prepared is:**
+
+1. What insightful questions you ask during class. (Asking, "what is questbridge?" is not insightful, that is available in the resources!  But asking, "what if my most successful course was in English and I'm applying for Gates.  Can I say that for one of their essays?" IS an insightful question.  It shows that you read the information but did not understand that part).  Please post questions to the forum if you're wondering about this requirement!
+
+2. How well you answer questions from the facilitator during class discussion or during the parent-student workshop.  You must answer at least one question correctly
+
+You have to do both of the above to get a point for the assignment.
+
+BOTTOM LINE:  if you read through the materials listed above, browse enough to get a good foundation of knowledge (even enough to mention a few facts about each and teach a friend about it), write down questions that you have as you prepare, and actively listen in class, you will have NO problem getting a point.  Trust me.  We are not going to give you a PhD exam on this, ok?  Pretend you are reading to be able to teach your family and friends.
 
 #### [](#ca028)
 
@@ -340,20 +395,51 @@ Recommendation:  Work with your mentor to create and revise your resume draft.  
 
 #### [](#ca029)
 
-### Core Assignment 29 -  FAFSA Pin and Forecaster
+### Core Assignment 29 -  FAFSA FSAID and Forecaster
+
+In order to apply for federal financial aid, you and at least one of your parent/guardians need to get a FSAID.  It can often take several days (occasionally longer) for verification, and so we want you to begin this process, now.  The assignment is graded on the Honor Code.  Simply write, on the digital template, “I got an FSAID" and “My parent/guardian got an FSAID" once you both have completed the process.
+
+You and your parents should get a FSAID from [here](https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid), then visit the FAFSA Forecaster website [here](https://fafsa.ed.gov/FAFSA/app/f4cForm?locale=en_EN)
+
+Please complete this assignment by using the online form, and make very sure that you write down the EFC number.  Lots of students choose the wrong number on the page, because it's a bit confusing!  You *must also* send Will your summary page (the one with the EFC) to complete this assignment.
+
+It's really important to get this done on time, because it will help us strategize with you on a payment strategy for school!
+
+If you are not eligible for an FSAID, instead of completing this assignment, please write a (1-page minimum) essay explaining *specifics* of your strategy to pay for college and how you plan to overcome this barrier.  Please also include any questions you have for us and email directly to Will by the deadline.
+
+(The FSA ID replaced the Federal Student Aid PIN on May 10, 2015. If you haven’t logged in to a Federal Student Aid site (such as fafsa.gov or StudentLoans.gov) since then, you will need to create an FSA ID before you can log on in the future. If you already have a PIN, you can link your information to your new FSA ID by entering your PIN while registering for your FSA ID. This will save you time when registering for your FSA ID.) If you’ve forgotten your PIN, don’t worry; you can either enter the answer to your PIN “challenge question” during the FSA ID registration process to link your PIN, or you can just create your FSA ID from scratch.)
 
 #### [](#ca030)
 
 ### Core Assignment 30 - Mentor Activity II
 
+Completed in class - discussions on dreams, time management and dashboard.
+
 #### [](#ca031)
 
 ### Core Assignment 31 - Self Reflection 3
 
+For this week’s self-reflection, you will take a break from writing yet another essay and instead you will DRAW!  
+
+Take out your old set of crayons, markers, and/or color pencils and get ready to demonstrate what you’re thinking about and feeling through this art modality.  Your drawing can be just with pencil, if you prefer no color.  You can borrow supplies from little siblings or cousins or friends, if you’d like. Be creative and have fun with this assignment!
+
+You will turn in a one-page drawing the answers the following question:
+
+What does your life look like when you are Will & Karla’s age?  This should be about 15 years for most of you (we will leave it at that! haha).  What experiences will be in your memories?  What skills will be part of your toolbox? What will you be looking forward to?  How will you be feeling?
 
 #### [](#ca032)
 
 ### Core Assignment 32 - Porfolio Check 2
+
+This activity will get you started with assembling your portfolio. The goal is to put together a polished final portfolio by the end of the program.
+
+To get started, compete the following for this assignment:
+1. Review the CPP2016 Portfolio instructions and template [available here](/cppbook/assets/cpp2016_portfolio_template.doc) and ask questions on the forum if stuck.
+2. Assemble an outline of the portfolio with place holder for each section in a word document. Don't forget to include a cover page. Be creative!
+3. Compete your autobiography as described in Section II "Plans and Goals"
+4. Insert the latest dashboard and summary sheet based on feedback from your mentors in Section XI "Application Dashboard"
+5. Upload the portfolio in progress to the webapp.
+
 
 #### [](#ca033)
 
@@ -375,13 +461,16 @@ Recommendation:  Work with your mentor to create and revise your resume draft.  
 
 ### Core Assignment 37 - Updated Transcript
 
+Provide an unofficial final year transcript (not report card) from your guidance office/registrar, complete with cumulative weighted and unweighted GPAs.  We recommend starting the process of getting this early, as it can take several weeks.
+
+
 #### [](#ca038)
 
 ### Core Assignment 38 - Top Schools Activity
 
 #### [](#ca039)
 
-### Core Assignment 39 - Questbridge Application Revision 1A
+### TBD
 
 #### [](#ca040)
 
@@ -394,6 +483,19 @@ Recommendation:  Work with your mentor to create and revise your resume draft.  
 #### [](#ca042)
 
 ### Core Assignment 42 - Resume Ninja Assignment
+
+Content is really important.  But it’s not enough!  You also have to have polish.
+
+Using the resume checklist as your guide, please turn Will’s really long high school resume into a killer, polished 1-page document.  Focus on what’s most important and help Will stand out!  There could be a prize for the best version...
+
+[Will's Actual HS Resume](https://drive.google.com/open?id=0B9BzfpbyLh6Yb3hGSVU0U1BJNlU
+)
+
+Notes:
+- My GPA was a 4.0/4.0 Unweighted.  For some reason I left that off...OOPS!
+- Greeneville High School is in Greeneville, TN
+
+- You must use the CPP template and CPP resume checklist referenced in the resume assignment.  You only need to upload (turn-in) a 1-page polished resumes.  Resumes longer than 1 page will receive no credit.
 
 #### [](#ca043)
 
