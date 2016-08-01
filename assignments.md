@@ -291,12 +291,12 @@ A template (required) can be found [here](/cppbook/assets/cpp_portfoliocheck1.do
 Questbridge is a national program that offers full scholarships (meets all remaining need) for high-achieving, low-income students through a very competitive admissions process.  
 Many CPP students are ideal candidates - the required essays are good practice for everyone.
 
-In order to give you the most topics to choose from when filling out applications and scholarships, it is **REQUIRED** that you write a new essay with different examples and ideas than the ones that you already explored in your Common App and Gates essays!
+In order to give you the most topics to choose from when filling out applications and scholarships, it is **REQUIRED** that you write a new essay with different examples and ideas than the ones that you already explored in your Common App and other essays!
 
 To receive credit, please:
 
 1.  Make a Questbridge account at www.questbridge.org, and begin filling out an application (nothing to turn in for this)
-2.  Answer the following prompt (the first Questbridge essay).  To receive credit, it should be between 700-800 words!  As always, please use the essay template:
+2.  Answer the following prompt (the first Questbridge essay).  To receive credit, it should be between 700-800 words!  As always, please use the essay template.  *You will turn in this essay using the webapp to receive credit*:
 
 "We are interested in learning more about you and the context in which you have grown up, formed your aspirations, and accomplished your academic successes. Please describe the factors and challenges that have most shaped your personal life and aspirations. How have these factors helped you to grow?"
 
@@ -405,7 +405,7 @@ Please complete this assignment by using the online form, and make very sure tha
 
 It's really important to get this done on time, because it will help us strategize with you on a payment strategy for school!
 
-If you are not eligible for an FSAID, instead of completing this assignment, please write a (1-page minimum) essay explaining *specifics* of your strategy to pay for college and how you plan to overcome this barrier.  Please also include any questions you have for us and email directly to Will by the deadline.
+If you are not eligible for an FSAID, instead of completing this assignment, please write a (1-page minimum) essay explaining *specifics* of your strategy to pay for college, specifically how it relates to how you plan to overcome this barrier (different than Scholarship Activity I).  A starting point is [here](http://www.maldef.org/leadership/scholarships/index.html).  Please also include any questions you have for us and email directly to Will by the deadline.
 
 (The FSA ID replaced the Federal Student Aid PIN on May 10, 2015. If you haven’t logged in to a Federal Student Aid site (such as fafsa.gov or StudentLoans.gov) since then, you will need to create an FSA ID before you can log on in the future. If you already have a PIN, you can link your information to your new FSA ID by entering your PIN while registering for your FSA ID. This will save you time when registering for your FSA ID.) If you’ve forgotten your PIN, don’t worry; you can either enter the answer to your PIN “challenge question” during the FSA ID registration process to link your PIN, or you can just create your FSA ID from scratch.)
 
