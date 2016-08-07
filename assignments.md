@@ -315,6 +315,19 @@ Include a start to a list of scholarships to which you plan to apply.  (The prev
 
 ### Core Assignment 24 -  Common App Essay #1 Revision 2
 
+Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).
+
+**General Revision Instructions**
+
+For your next essay revision, be sure to incorporate feedback from your mentor and other volunteers. You can find the feedback by revisiting your previous revision on the webapp. Clicking on the magnifying glass icon next to your previous revision will allow you to view the essay; notice that there are now a few more tabs with individualized feedback just for you. Be sure to review the marked up essay as well as the Essay Review Sheet. Email Liem if you are having trouble with viewing your essay feedback.
+
+After you've read the feedback, you're required to consider incorporating the suggestions from your reviewers into your next revision for an even more polished essay. Typically you'll have at least two reviewers per essay. This is by design so that your essay is reviewed with multiple perspectives. Be sure to address all the suggestions you received from the reviewed essay and review sheet. If you happen to see conflicting suggestions from two different reviewers, use your best judgement and choose the suggestion that makes the most sense to you.  *The essay belongs to you, so you are allowed to discard feedback if it isn't true to you or your voice.  If you disregard lots of suggestions, be sure to let us know why on the essay/resume review sheet so that we know you considered everything and chose a different direction.*
+
+Remember, your next revision must be significantly different (and better) than the prior one. Before you turn in the essay, briefly compare the two revisions, if they are very similar, you have not make enough improvements! Don't forget to keep track of your major changes at the end of your essay as required by the template.  
+
+If you decide you don't like your topic at all, that's ok!  But please check with us, first, so we can help guide you.  If you did not complete your earlier draft on time, please check with us about how to proceed.
+
+
 #### [](#ca025)
 
 ### Core Assignment 25 - Activities and Honors List
@@ -445,9 +458,34 @@ To get started, compete the following for this assignment:
 
 ### Core Assignment 33 - Common App Essay 2 Revision 2
 
+Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).
+
+**General Revision Instructions**
+
+For your next essay revision, be sure to incorporate feedback from your mentor and other volunteers. You can find the feedback by revisiting your previous revision on the webapp. Clicking on the magnifying glass icon next to your previous revision will allow you to view the essay; notice that there are now a few more tabs with individualized feedback just for you. Be sure to review the marked up essay as well as the Essay Review Sheet. Email Liem if you are having trouble with viewing your essay feedback.
+
+After you've read the feedback, you're required to consider incorporating the suggestions from your reviewers into your next revision for an even more polished essay. Typically you'll have at least two reviewers per essay. This is by design so that your essay is reviewed with multiple perspectives. Be sure to address all the suggestions you received from the reviewed essay and review sheet. If you happen to see conflicting suggestions from two different reviewers, use your best judgement and choose the suggestion that makes the most sense to you.  *The essay belongs to you, so you are allowed to discard feedback if it isn't true to you or your voice.  If you disregard lots of suggestions, be sure to let us know why on the essay/resume review sheet so that we know you considered everything and chose a different direction.*
+
+Remember, your next revision must be significantly different (and better) than the prior one. Before you turn in the essay, briefly compare the two revisions, if they are very similar, you have not make enough improvements! Don't forget to keep track of your major changes at the end of your essay as required by the template.  
+
+If you decide you don't like your topic at all, that's ok!  But please check with us, first, so we can help guide you.  If you did not complete your earlier draft on time, please check with us about how to proceed.
+
 #### [](#ca034)
 
 ### Core Assignment 34 - Common App 1st Draft
+
+Please develop a first draft of your common app.  You should make an account and use the commonapp.org official site to fill out the application.  You must include the additional information essay (Think about any special circumstances you want to explain, or an activity you'd like to highlight.)  Be sure to include your activities and your regular long common app essay that we've done in other assignments.
+
+Focus on the following:
+- Completeness and polish
+- Make sure you fill everything out; ask your mentor to look over things.  
+- Choose a school in future plans, and fill out the boxes accordingly
+- Make sure you put as many details as you can under activities - remember that you are trying to shape things into a "theme" with your "standout factors."  Definitely don't write one word descriptions!!!
+- Make sure you fill out any supplement that is required for your chosen school!
+
+Questions in the forum, please!
+
+
 
 #### [](#ca035)
 
@@ -468,6 +506,8 @@ Provide an unofficial final year transcript (not report card) from your guidance
 
 ### Core Assignment 38 - Top Schools Activity
 
+Please fill out the online form provided with your current thoughts and reflections on attending a top school.  Make sure you answer in paragraph form when explaining, to receive credit!  
+
 #### [](#ca039)
 
 ### TBD
@@ -476,9 +516,39 @@ Provide an unofficial final year transcript (not report card) from your guidance
 
 ### Core Assignment 40 - Questbridge Application Revision 1B
 
+Please continue to fill out your Questbridge application - do not do recommenders or anything that requests outside info - we are just practicing.  Please turn in the following essays (short and long answers in one document, with prompts) to the webapp:
+
+##### Please write on ONE of the following topics (500 words):
+
+- Option 1: Tell us about one of your proudest achievements or moments and what it says about you.
+- Option 2: Reflect on a significant risk you have taken or an ethical dilemma you have faced. What action did you take and how did it change you?
+- Option 3: What do you admire most about your community? What would you improve?
+
+##### Tell us about a concept, theory, or subject that has piqued your intellectual curiosity. What steps have you taken or do you want to take to further explore that interest? (200 words)
+
+##### If you could meet a character from a book or a historical figure, who would it be and what would you ask them? (200 words)
+
+##### Short answers (225 characters/3 sentences each!):
+
+- What are your favorite books and/or movies?
+- What is your favorite source of inspiration?
+- How do you spend a typical weekend?
+- What is the compliment that you have been paid that you are most proud of? Who gave you the compliment?
+- After a challenging experience, how do you rejuvenate?
+- If you could change one thing about your high school, what would it be and why?
+- What would you contribute to your future college campus community?
+
 #### [](#ca041)
 
 ### Core Assignment 41 - College List 2
+
+Fill out the Online Form to narrow your list of schools to 18.  The form fields are designed to help you learn more about each school that you are considering.  Make sure that you are interested in attending every school on your list!  And be sure to take into account feedback from version #1 of your list.  To receive credit, please write detailed answers for each school, so that you can know if these are the right places for you.
+
+- Type: Dream-Reach-Match-Safety (you should have 3-6-6-3 or 4-5-5-4, for you DRMS categories)
+- Financial Aid Plan:  How are you going to pay for this school?  You need a strategy!
+- How do I match:  Compare your GPA and SAT to the average or quartile range of admitted students.  How competitive are you?
+
+*If you did not receive credit for college list 1, please check with us about how to proceed!*
 
 #### [](#ca042)
 
@@ -501,13 +571,41 @@ Notes:
 
 ### Core Assignment 43 - Net Price Calculator
 
+Get Net Price estimates for at least 3 of your top choice schools – including one state school and one private school.  The link to the calculator can be found on each school’s website or by searching for the school on College Navigator (http://nces.ed.gov/collegenavigator/).
+
+Due to a recent Federal Law, all schools must provide a net price calculator on their website.  This will allow you to input information about your family’s financial circumstances and get an accurate estimate of how much you would be expected to pay if admitted.  It generally doesn’t include merit scholarships – only the need based aid part.
+
+You can find these calculators several different ways:
+
+1.  Google search  “Net price calculator Princeton”
+
+2.  Visit a school’s undergraduate office of financial aid
+
+3.  Go to College Navigator (http://nces.ed.gov/collegenavigator/), and look up your school – the website provides a link to each school’s calculator.
+
 #### [](#ca044)
 
 ### Core Assignment 44 - Self Reflection 4
 
+For this week’s self-reflection, you will continue to explore more about yourself!  First, you will take a personality test called [Myers-Briggs](http://www.humanmetrics.com/cgi-win/jtypes2.asp). Once you get your 4-letter code result, you will read the “type description,” which explains what the results mean about yourself.  (Even if you have taken this quiz before, and you already know your 4-letter code, please take it again.  The codes change over time!).  Finally, you will watch a [TED Talk](http://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en#t-1124916) on The Power of Introverts.
+
+You will then submit a 1-page (minimum, double spaced) containing the following:
+
+- Your 4-letter code
+- Discussion on what you learned about yourself and others from the materials that you read/watched.  Was it a surprise? How do you think you could use this information as you prepare to package yourself for college or as you return to school?
+- How can this information help you become a better leader in your community?
+
+link to ted talk:
+http://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en#t-1124916
+
+link for myers-briggs:
+http://www.humanmetrics.com/cgi-win/jtypes2.asp
+
 #### [](#ca045)
 
 ### Core Assignment 45 - Porfolio Check 3
+
+To be announced no later than Wednesday this week.  Will be an updated porfolio, building on what you did last week!
 
 #### [](#ca046)
 
