@@ -266,7 +266,7 @@ For this assignment, you will write one short essay, approximately 1 page in tot
 
 #### [](#ca021)
 
-### Core Assignment 21 -  Porfolio Check 1
+### Core Assignment 21 -  Portfolio Check 1
 
 This assignment is designed to get you thinking about where you are headed in more detail, and to start thinking about your final portfolio (never too soon!)
 
@@ -442,7 +442,7 @@ What does your life look like when you are Will & Karla’s age?  This should be
 
 #### [](#ca032)
 
-### Core Assignment 32 - Porfolio Check 2
+### Core Assignment 32 - Portfolio Check 2
 
 This activity will get you started with assembling your portfolio. The goal is to put together a polished final portfolio by the end of the program.
 
@@ -603,9 +603,22 @@ http://www.humanmetrics.com/cgi-win/jtypes2.asp
 
 #### [](#ca045)
 
-### Core Assignment 45 - Porfolio Check 3
+### Core Assignment 45 - Portfolio Check 3
 
-To be announced no later than Wednesday this week.  Will be an updated porfolio, building on what you did last week!
+If you have not started your portfolio, you are required to start from Core Assignment - Portfolio Check 2. For this portfolio check continue to build on what you submitted last week by adding the following sections. Refer to the portfolio template for guidance.
+
+#### Section II
+
+- Mission Statement
+- Hobbies and Interests (at least 2 paragraphs)
+- Goals for the Future (at least 2 paragraphs)
+- Professional Role Model (use Great Discovery as the starting point, at least 1 paragraph)
+- Personal Role Model (use Great Discovery as the starting point, at least 1 paragraph)
+
+#### Section III
+
+- Standout factors (use Standout Factor activity as the starting point)
+- School pool activity (use School Pool activity as the starting point)
 
 #### [](#ca046)
 
@@ -722,7 +735,7 @@ This point is largely based on participation (questions and answers) in the onli
 
 #### [](#ca071)
 
-### Core Assignment 71 - Porfolio Check 5
+### Core Assignment 71 - Portfolio Check 5
 
 #### [](#ca072)
 
