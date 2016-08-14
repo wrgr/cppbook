@@ -345,6 +345,27 @@ Prioritize things that you have spent the most time in, and that show leadership
 
 ### Core Assignment 26 -  Study Skills 3:  Big and Small Rocks
 
+*What are your big and small rocks?*  How does Nate’s presentation and discussion relate to your weekly goals and priorities?  For this study skills assignment, you will
+
+1. *Create a list* of 20 (minimum)  “rocks” that includes big ones and small ones.  Remember that the big “rocks” are things that you MUST accomplish every week to fulfill your dreams and goals, and to stay alive and healthy (ie. Eating, sleeping, attending CPP/school).  Smaller “rocks” include things that you sort of have to get done but are optional or not essential.  You can choose to have a category for medium-sized rocks, if you’d like.
+
+Format for the list:
+
+Big rocks
+
+- Rock 1 description (2-4 words)
+- Rock 2 description (2-4 words)
+- Etc…
+
+Small Rocks
+
+- Rock 1 description (2-4 words)
+- Rock 2 description (2-4 words)
+- Etc…
+
+
+2. *Discuss* (1 page minimum, double spaced) how you are incorporating these “rocks” into your weekly schedule, and if the allocated portion of time/energy devoted to them matches their priority level.  For example, if SAT is a big rock and Netflix a small rock, are you allocating more time to SAT prep to ensure that you have “the big rocks in first?” How are you doing this?  Perhaps for you it is not just how much time you put into the task but also when (early vs. late) you finish that task on a given day.
+
 #### [](#ca027)
 
 ### Core Assignment 27 -  Study Skills 4:  Previewing
@@ -493,7 +514,10 @@ Questions in the forum, please!
 
 #### [](#ca036)
 
-### Core Assignment 36 - Scholarship Application Part II Revision 2
+### Core Assignment 36 - Scholarship Activity II
+
+Will be posted by Monday!
+
 
 #### [](#ca037)
 
@@ -510,7 +534,12 @@ Please fill out the online form provided with your current thoughts and reflecti
 
 #### [](#ca039)
 
-### TBD
+### Core Assignment 36 - Scholarship Application Part I Revision 1
+
+It's your turn to choose!  Chose one of the essays for a scholarship program you are interested in, and write the essay section, using the regular template on a new topic that you haven't used previously.  
+
+You should choose an essay with at least 500 words for this assignment!
+
 
 #### [](#ca040)
 
@@ -628,13 +657,44 @@ If you have not started your portfolio, you are required to start from Core Assi
 
 ### Core Assignment 47 - UMCP Application Essay Revision 1
 
+Please select and complete an essay on one of the topics for this year’s UMCP Application.  Your essay must be no more than 500 words.  To receive credit, you must write at least 450 words, complete the essay using the template (including the prompt, name, assignment number, double spacing, and 3 reviewers).  The instructions can be found [here](https://www.admissions.umd.edu/apply/essay.php).
+
+*To receive credit, you must choose a topic different than the ones you wrote for the Common App.*
+
+Make sure to include the question itself at the start of your essay. Your essay should be no more than 500 words; the question will not be included in the essay total word count.
+
+1. Tell a story from your life, describing an experience that either demonstrates your character or helped to shape it.
+
+2. Describe a time when you made a meaningful contribution to others in which the greater good was your focus. Discuss the challenges and rewards of making your contribution.
+
+3. Has there been a time when you’ve had a long-cherished or accepted belief challenged? How did you respond? How did the challenge affect your beliefs?
+
+4. What is the hardest part of being a teenager now? What’s the best part? What advice would you give a younger sibling or friend (assuming they would listen to you)?
+
+5. Submit an essay on a topic of your choice.
+
+
 #### [](#ca048)
 
 ### Core Assignment 48 - Activities and Honors List 2nd Draft
 
+The activities and award resume assignment is an important part of your application and is a way to showcase what you have accomplished over the past few years.  The second draft of the assignment asks you to refine and add to your original list, following the class discussions on activities, leadership and standout factors.  This is the last chance to get this reiewed in CPP, so make sure to do your best.
+
+Following the mentor group activity, please list at least 10 activities and 5 honors,  For each, please be very descriptive, highlighting leadership and measurable impact.  At least 2-3 sentences per activity are required to receive credit!
+
+Generally, you should only focus on activities beginning in 9th grade, although if you started an activity earlier, you may list it if it is especially impressive, or if you have been doing the activity for many years (for example:  Basketball, 4th grade – present).  Generally schools will give much more weight to your high school information.  
+
+In activities, remember to include everything, including jobs, volunteering, church activities, sports, clubs, service trips, and other things you do for fun.  Remember that things like student government, being in a band/music group, JROTC, cheerleading, etc. all count!
+
+Prioritize things that you have spent the most time in, and that show leadership.  You can include (no more than 3) planned activities for future years, too!
+
+Honors: Briefly list any academic distinctions or honors you have received since the 9th grade or international equivalent (e.g., National Merit, Cum Laude Society).
+
 #### [](#ca049)
 
 ### Core Assignment 49 - Resume Revision 2
+
+Please revise your resume, taking into account reviewer feedback and feedback from your mentor.  Remember to be descriptive when writing about your activities (at 3-4 lines each) and emphasize leadership, like we talked about in class.  You don't have to list everything, but be sure to list the important stuff!  You should have a full one page (and only) one page resume by the time you turn this in!
 
 #### [](#ca050)
 
@@ -673,7 +733,9 @@ Please write a 1.5-page (minimum, you are welcome to write more) answering the f
 
 #### [](#ca056)
 
-### Core Assignment 56 - Porfolio Check 4
+### Core Assignment 56 - Portfolio Check 4
+
+To be announced no later than Wednesday!
 
 #### [](#ca057)
 
@@ -700,6 +762,8 @@ This point is largely based on participation (questions and answers) in the onli
 #### [](#ca062)
 
 ### Core Assignment 62 - Questbridge Application Revision 2A
+
+Please revise your essay (Questbridge Application Revision 1A), based on the detailed feedback you received from the essay/resume review process (required),  Don't forget to use the template and follow all of the guidelines to receive credit!
 
 #### [](#ca063)
 
