@@ -699,9 +699,6 @@ Make sure to include the question itself at the start of your essay. Your essay 
 
 5. Submit an essay on a topic of your choice.
 
-
-#### [](#ca048)
-
 #### [](#activityResume2HW)
 
 ### Core Assignment 48 - Activities and Honors List 2nd Draft
