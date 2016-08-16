@@ -510,14 +510,40 @@ Questions in the forum, please!
 
 #### [](#ca035)
 
-### Core Assignment 35 - Scholarship Application Part I Revision 2
+### Core Assignment 35 - Questbridge Application Revision 2A
+
+Please revise your essay (Questbridge Application Revision 1A), based on the detailed feedback you received from the essay/resume review process (required),  Don't forget to use the template and follow all of the guidelines to receive credit!
 
 #### [](#ca036)
 
 ### Core Assignment 36 - Scholarship Activity II
 
-Will be posted by Monday!
+For this assignment, continue to explore methods to pay for college.  The purpose of this activity is to choose 4 of your schools (choose your favorite Dream, Reach, Match and Safety school), and develop a tangible, concrete plan to pay.  The main lesson is to make sure that the schools on your list are realistic and affordable and that you are working toward paying for everything.  You can structure this assignment however you'd like, but to receive credit you must answer the following questions:
 
+#### Overall (do this once)
+
+- Your EFC
+- How much your parents are willing to pay for college (ask them!) with loans or money they earn or have saved per year
+- How much money you are willing to pay for college each year through savings
+- How much money you are willing to pay for college each year through loans
+- How much money you are willing to pay for college each year through work
+- How many scholarships do you actually plan to apply for (be realistic!)  
+- Please provide your current list of scholarships
+- Questions you have about finding money for school
+
+#### School Specific (do this for each of 4 schools)
+
+1-2 paragraphs detailing your specific plan to afford this school
+
+- Net price calculator amount owed [NOT INCLUDING SELF-HELP or Loans]
+- How you plan to pay [parents]
+- How you plan to pay [student loans]
+- How you plan to pay [student work]
+- How you plan to pay [student savings]
+- How you plan to pay [school-specific scholarships]
+- How you plan to pay [other scholarships]
+- Remaining gap
+- How you plan to close this gap
 
 #### [](#ca037)
 
@@ -534,7 +560,7 @@ Please fill out the online form provided with your current thoughts and reflecti
 
 #### [](#ca039)
 
-### Core Assignment 36 - Scholarship Application Part I Revision 1
+### Core Assignment 39 - Scholarship Application Part I Revision 1
 
 It's your turn to choose!  Chose one of the essays for a scholarship program you are interested in, and write the essay section, using the regular template on a new topic that you haven't used previously.  
 
@@ -700,6 +726,21 @@ Please revise your resume, taking into account reviewer feedback and feedback fr
 
 ### Core Assignment 50 - Study Skills 5: Time Management Checkin
 
+*Write 1.5-page (minimum, double spaced) update regarding your time management habits.*
+
+Discuss the following:
+
+- What are some things that are going really well in terms of exercising "good" time management habits- those we have explored during CPP or others that you have been meaning to try.
+
+- What are some areas that could use some improvement in regards to managing your time to complete the tasks for the week?
+
+- What questions do you still have about time management, setting goals and milestones, and staying motivated?
+
+- Please submit an updated calendar with your schedule by inserting a picture (PDF) at the bottom of this document.
+
+- How have you adjusted your schedule to reflect the `rocks' that you chose in the Study Skills "Big and Small Rocks" assignment?
+
+
 #### [](#ca051)
 
 ### Core Assignment 51 - STEM Activity: Code Academy I
@@ -735,7 +776,29 @@ Please write a 1.5-page (minimum, you are welcome to write more) answering the f
 
 ### Core Assignment 56 - Portfolio Check 4
 
-To be announced no later than Wednesday!
+If you have not started your portfolio, you are required to start from Core Assignment - Portfolio Check 2. Credit will not be given if you have not complete requirements from previous Portfolio Check assignments.
+
+For this portfolio check please start to work on formatting and organization of your portfolio. Make sure it is professional and representative of your best work. Below are formatting requirements that you will be reviewed against
+
+- Must have a main cover page, creative cover page with graphics are highly encouraged
+- Must have a table of contents
+- Each section must be separate by a section cover page
+- Subsections (topics within a section) must be clearly formatted with bold heading
+- Paragraphs must be double spaced
+- Font type must be consistent across the entire portfolio
+- Tables must be professionally formatted and consistent across the entire portfolio
+- Page number must be on the bottom right of each page
+- Place holders should be in red font surrounded by square brackets [this is a page holder]
+- Also continue to build on what you submitted last week by adding the following materials. Refer to the portfolio template (insert link here) for details on what's expected of each section.
+
+#### Section II
+
+- Planned Major (at least 1 paragraph)
+- Degree Plans (at least 1 paragraph)
+- Career Plans (at least 2 paragraphs)
+- Personal Goals (at least 2 paragraphs)
+- Discuss on the forum if you are unclear of what to write in these sections.
+
 
 #### [](#ca057)
 
@@ -761,9 +824,7 @@ This point is largely based on participation (questions and answers) in the onli
 
 #### [](#ca062)
 
-### Core Assignment 62 - Questbridge Application Revision 2A
-
-Please revise your essay (Questbridge Application Revision 1A), based on the detailed feedback you received from the essay/resume review process (required),  Don't forget to use the template and follow all of the guidelines to receive credit!
+### Core Assignment 62
 
 #### [](#ca063)
 
