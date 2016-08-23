@@ -842,6 +842,17 @@ This point is largely based on participation (questions and answers) in the onli
 
 ### Core Assignment 58 - Essay Grammar Skills
 
+For this assignment you're to review three Common App essays (your own and two classmates’). Imagine you're a College Admission Officer as you read the essay and answer the following questions using the attached template. Please avoiding spending more than 20 minutes per essay.  
+
+1. Does the author provide a hook? If yes, is it interesting? If no, provide constructive feedback on how to improve. Note: A hook is generally the first few sentences of the essay that serve as an attention grabber to keep the reader interested.
+2. Identify the main point of the essay.
+3. Identify the major elements or supporting facts.
+4. Identify the author's standout factors.
+5. Does the author tell an interesting story that helps you know who they are? Why or why not?
+6. Is the essay unique? Does the essay provide reason why you should admit the author to college?
+
+You're required to review 2 classmates’ essays. Please reach out to your classmates via email or on the forum to exchange essays. If you're uncomfortable with sharing your essays due to personal reasons, please contact Liem as soon as possible for alternative arrangement.
+
 #### [](#ca059)
 
 ### Core Assignment 59 - Essay Content Skills
@@ -923,7 +934,7 @@ Examples might include – a study plan for preparing for the SAT, plans to beco
 
 Please also include your dashboard numbers for where you are and where you want to be for: SAT, GPA, Impact and Initiative (leadership), Essays, Polish, and Money
 
-A recommended format is included [here](/cppbook/next_steps_template.doc).
+A recommended format is included [here](/assets/next_steps_template.doc).
 
 **For rising seniors, please also include your current plan for schools you plan to apply to (with dates), and test dates and requirements so that we can review!**
 
