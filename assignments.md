@@ -315,7 +315,7 @@ Include a start to a list of scholarships to which you plan to apply.  (The prev
 
 ### Core Assignment 24 -  Common App Essay #1 Revision 2
 
-Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).
+Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).  You must use the template to receive credit.
 
 **General Revision Instructions**
 
@@ -744,9 +744,13 @@ Discuss the following:
 
 ### Core Assignment 51 - STEM Activity: Code Academy I
 
+This point is earned by completing Units 1 and 2.  (4 python lessons), and uploading a screen shot showing that the lessons are complete.  Pro assignments are not required.
+
 #### [](#ca052)
 
 ### Core Assignment 52 - STEM Activity: Code Academy II
+
+This point is earned by completing Units 3 and 4.  (4 python lessons), and uploading a screen shot showing that the lessons are complete.  Pro assignments are not required.
 
 #### [](#ca053)
 
@@ -769,7 +773,36 @@ Please write a 1.5-page (minimum, you are welcome to write more) answering the f
 
 #### [](#ca055)
 
-### Core Assignment 55 - Self Reflection 6
+### Core Assignment 55 - Self Reflection 6 Looking for a Major- A Scavenger Hunt!
+
+Congratulations! For today’s self-reflection you have been accepted early decision to Vanderbilt University, with almost a full-ride, and you are expected to begin classes this fall (August 22nd).  Before you can enroll in your classes, Vanderbilt is requesting that you pick a major from one of their undergraduate programs.  This whole time you have been “undecided” because you couldn’t decide between two majors, and now it is time to make that choice!  Uh oh...it’s stressful...so you develop the following plan and execute it carefully:
+
+- You will visit Vanderbilt’s website and look for the school catalogs (link: http://www.vanderbilt.edu/catalogs/index.html).  Choose “Undergraduate Catalogs” since you will be pursuing your undergraduate degree.
+
+- You will choose **two** majors that you are interested in.  For purposes of this exercise, you are required to only choose ONE major from a single school at Vanderbilt, the second major must come from a different school at Vanderbilt.  Remember that Vanderbilt is a university (versus a “college”) and therefore it has multiple “schools” or “colleges.”  Some of them include: College of Arts and Science, Blair School of Music, and the School of Engineering. We recommend that you pick your **own** first choice major and let your second choice be either your real second choice, or another fun major to explore.  **Pro-tip:** did you know that you can major in Computer Science from the College of Arts & Science OR from the School of Engineering? Wondering what the difference is? You can choose Computer Science from each and explore! :)
+
+- To find out what majors are offered, read through the pages in the undergraduate catalog that lists the major available for each of the schools within Vanderbilt. Here’s how:  from the undergraduate catalog page, click on a particular school.  There should now be a link to “degree programs” which then takes you to the page in the catalog where the majors are listed. College of Arts and Science has this info starting on page 80.
+
+- Scan through these pages to find the major you’re interested in and then scroll down within the catalog to find where the details for the program of study are discussed.  You don’t have to read every word, but the goals are for you to get a **general idea of how the catalog is organized, what information is contained, where you would find information about requirements for the major of your choice, and what other interesting pieces of information are contained in the catalog**.  Pro-tip: did you know that there are scholarship and honors program descriptions listed here as well?
+
+- Go to the page listing your major requirements and see the required courses that you will be taking.
+
+- Go and look at the description of these courses.  What do you think? Are they interesting to you? Do they seem cool? Pro-tip (optional): if you want to learn more, try doing a search at the main school website.  You might be able to find the class website!
+
+- Repeat this process for your second major but at a different school within Vanderbilt University.
+
+You will then prepare a 2-page (minimum, 1 page per major, double-spaced) discussing the following:
+
+- Which major did you choose and from which school? (e.g., Page 1: “I chose to major in Electrical Engineering at the School of Engineering;” Page 2: “I chose to major in Neuroscience at the College of Arts and Science.”)
+
+- Are there any general education requirements?  These are requirements that are required from ALL students in that school/college, regardless of their specific major.  For example, as an engineering student all freshmen and sophomores are required to take: Calculus 1 and 2, General Chemistry, etc.  What are YOUR general education requirements? Are these taken during your freshman year only or throughout other years? Be specific!
+
+- Pick two of your favorite general education courses and discuss what you will be learning in them (according to the catalog!).
+What courses are required for your major?  List the abbreviated titles and/or list the requirement.  
+
+- Pick two of your favorite major courses and discuss what you will be learning in them (according to the catalog!).
+
+- Overall, discuss what you thought about pursuing this major...does it sound like things you are interested in learning more about?  Were you excited as you read through the program requirements?  What does this mean in terms of choosing a major?
 
 #### [](#ca056)
 
@@ -813,13 +846,22 @@ This point is largely based on participation (questions and answers) in the onli
 
 ### Core Assignment 59 - Essay Content Skills
 
+This point is earned by editing Will's High School "Common App" essay and providing feedback.  Feedback should be given as though you were an essay reviewer, so be sure to provide content/grammar suggestions on the document and fill out the review sheet.  You may turn the hard copy edits inon Saturday if you don't have a scanner, but you should upload the review sheet by the deadline.
+
+Review sheet is [here](https://drive.google.com/open?id=0B9BzfpbyLh6YcnBQb0ZleGo2V0E)
+Essay is [here](https://drive.google.com/a/collegeprepprogram.org/file/d/0B9BzfpbyLh6YSnZxSnRla0lneUE/view?usp=sharing)
+
 #### [](#ca060)
 
 ### Core Assignment 60 - Common App Essay 1 Revision 3
 
+Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).  You must use the template to receive credit.
+
 #### [](#ca061)
 
 ### Core Assignment 61 - Common App Essay 2 Revision 3
+
+Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).  You must use the template to receive credit.
 
 #### [](#ca062)
 
@@ -829,6 +871,8 @@ This point is largely based on participation (questions and answers) in the onli
 
 ### Core Assignment 63 - Questbridge Application Revision 2B
 
+Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).  You must use the template to receive credit.
+
 #### [](#ca064)
 
 ### Core Assignment 64 - Summer Programs and Opportunities
@@ -836,6 +880,8 @@ This point is largely based on participation (questions and answers) in the onli
 #### [](#ca065)
 
 ### Core Assignment 65 - Scholarship List
+
+Make a list of scholarship program to apply to.  You should have at least 25 programs, along with a short description of each and what you have to do to apply.  At least 5 local, 5 school, and 5 national.  Please follow the format on the webapp form.  And please contribute your findings to the shared class spreadsheet!
 
 #### [](#ca066)
 
@@ -845,9 +891,41 @@ This point is largely based on participation (questions and answers) in the onli
 
 ### Core Assignment 67 - Parent Interview
 
+*Meet your parents/guardians!*
+
+While getting ready to set off in pursuit of your dreams, it's important to get to know yourself.  One important aspect of getting to know yourself is to understand your own background.  And where's a good place to start?  Right at home – with, of course, your parents or guardians!
+
+Please ask your interviewee to set aside 30 minutes - 1 hour  to meet with you and tell you about him/herself.  Here are a few pointers of questions to ask...but feel free to substitute for your own or add any that you'd like:
+
+- Where were you born?  How long did you live there?  Do you remember those times?  Was it a big town or little town?
+- Where were your parents born? What did they tell you about their childhood?
+- What were the main (most important) things that your parents taught you? Were they strict about you going to school?  Did they encourage you to study?  Did they encourage you to get a job?
+- How would you consider your relationship with your parents when you were my age?  Did you talk to them a lot about your personal thoughts and issues?  Did you have to behave a certain way in order to "be a good daughter/son"?  Can you describe that?
+- When you were my age, how did you picture yourself in 20 years? (Meaning, when you were ~16 years old, how did you picture yourself as a 35 year old?)  What kind of dreams and aspirations did you have when you were my age? What were the things you hoped to do when you 'grew up"?
+- For the most part, do you feel like you've accomplished what you wanted to do?
+- As your son/daughter, what is the most important teaching you hope I carry with me as I embark on my own journey someday?
+- Do you have any career aspirations and dreams for me?  Do you have any personal dreams/aspirations for me?
+- Why do you want me to go to college?
+- Would you support me and encourage me to go to graduate school or professional school (medicine, law, etc)?
+- What would you like me to get out of my college experience?  What is the most important thing to you regarding my attendance to college?
+
+Make sure you take notes during the interview...or even better yet, if you have access to a voice recorder or video camera, this might be a good time to use it.  With all of this information, please write an essay that introduces us to your parents (include their names) and shares with us the topics listed above.  Basically, who are your parents, what is their background, what values did they learn as children/young adults, what they hope for your future, and finally, what did you learn about yourself and your goals from getting to know your parents' background.
+
 #### [](#ca068)
 
 ### Core Assignment 68 - Next Steps after CPP: Action Plan Draft 1
+
+With your mentor, develop an action plan for applying to college, beginning with July of this year, and concluding with high school graduation and college acceptance.  You should also talk about study skills and short/long term goals for college and beyond.
+
+It is expected that you will complete initial ideas in our class mentoring session, and expand on them at home (emailing your mentor for help if needed), to produce a 2-4 page document.  You should think about your strengths and weaknesses, and how you will use the time you have to create the most polished, best version of your applications.
+
+Examples might include – a study plan for preparing for the SAT, plans to become a leader and start a new student group at your school, or getting a tutor to bring up your math grades.
+
+Please also include your dashboard numbers for where you are and where you want to be for: SAT, GPA, Impact and Initiative (leadership), Essays, Polish, and Money
+
+A recommended format is included [here](/cppbook/next_steps_template.doc).
+
+**For rising seniors, please also include your current plan for schools you plan to apply to (with dates), and test dates and requirements so that we can review!**
 
 #### [](#ca069)
 
@@ -860,6 +938,37 @@ This point is largely based on participation (questions and answers) in the onli
 #### [](#ca071)
 
 ### Core Assignment 71 - Portfolio Check 5
+
+If you have not started your portfolio, you are required to start from Core Assignment - Portfolio Check 2. Credit will not be given if you have not completed requirements from previous Portfolio Check assignments.
+
+For this portfolio check please continue to work on formatting and organization of your portfolio. Make sure it is professional and representative of your best work. Below are formatting requirements that you will be reviewed against
+
+- Must have a main cover page, creative cover page with graphics are highly encouraged
+- Must have a table of contents
+- Each section must be separate by a section cover page
+- Subsections (topics within a section) must be clearly formatted with bold heading
+- Paragraphs must be double spaced
+- Font type must be consistent across the entire portfolio
+- Tables must be professionally formatted and consistent across the entire portfolio
+- Page number must be on the bottom right of each page
+- Place holders should be in red font surrounded by square brackets [this is a page holder]
+- Also continue to build on what you submitted last week by adding the following materials. Refer to the [portfolio template](https://drive.google.com/file/d/0BwvvsVXUJv7JMjJsVER6SjNyd1U/) for details on what’s expected of each section.
+
+#### Section I  
+
+- Introduction (at least 2 paragraphs)
+
+#### Section II
+
+- Giving Back (at least 2 paragraphs)
+- Parent priorities for your education (at least 1 paragraphs)
+- Your priorities for your education (at least 1 paragraphs)
+
+#### Section IV
+
+- EFC (explain what is an EFC and what's your EFC amount?)
+- Plan to Pay for College (at least 1 paragraph)
+- Net Price Calculator Worksheets (3 schools)
 
 #### [](#ca072)
 
