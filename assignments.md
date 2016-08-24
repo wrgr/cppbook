@@ -934,7 +934,7 @@ Examples might include – a study plan for preparing for the SAT, plans to beco
 
 Please also include your dashboard numbers for where you are and where you want to be for: SAT, GPA, Impact and Initiative (leadership), Essays, Polish, and Money
 
-A recommended format is included [here](/assets/next_steps_template.doc).
+A recommended format is included [here](/cppbook/assets/next_steps_template.doc).
 
 **For rising seniors, please also include your current plan for schools you plan to apply to (with dates), and test dates and requirements so that we can review!**
 
