@@ -679,6 +679,20 @@ If you have not started your portfolio, you are required to start from Core Assi
 
 ### Core Assignment 46 - Common App 2nd Draft
 
+Please develop a second draft of your common app.  This one should be revised from the first version you completed earlier in the program and must include the additional information essay!  (Think about any special circumstances you want to explain, or an activity you'd like to highlight.)  
+
+In general, these are looking pretty good, but focus on the following:
+- Completeness and polish
+- Please include your regular long common app essay or your resume for this assignment.
+- Make sure you fill everything out; ask your mentor to look over things.
+- You should have information in all sections, including activities, future test plans, courses, etc.
+- Be accurate - this is a legal document; ask questions if you have them!  EVERYTHING YOU INCLUDE SHOULD BE ALREADY COMPLETED, NOT PLANNED!
+- Choose a school in future plans, and fill out the boxes accordingly, including a supplement if required.  We recommend that you choose your first choice school.
+- Make sure you put as many details as you can under activities - remember that you are trying to shape things into a "theme" with your "standout factors."  Definitely don't write one word descriptions!!!  Focus on places you've demonstrated leadership.  
+- DO NOT ACTUALLY SUBMIT!!!!
+
+Questions in the forum, please!
+
 #### [](#ca047)
 
 ### Core Assignment 47 - UMCP Application Essay Revision 1
@@ -746,11 +760,15 @@ Discuss the following:
 
 This point is earned by completing Units 1 and 2.  (4 python lessons), and uploading a screen shot showing that the lessons are complete.  Pro assignments are not required.
 
+This assignment includes:  Python Syntax, Tip Calculator, Strings & Console Output, and Date and Time.
+
 #### [](#ca052)
 
 ### Core Assignment 52 - STEM Activity: Code Academy II
 
 This point is earned by completing Units 3 and 4.  (4 python lessons), and uploading a screen shot showing that the lessons are complete.  Pro assignments are not required.
+
+This assignment includes:  Conditionals & Control Flow, PygLatin, Functions, and Taking a Vacation.
 
 #### [](#ca053)
 
@@ -770,6 +788,8 @@ Please write a 1.5-page (minimum, you are welcome to write more) answering the f
 #### [](#ca054)
 
 ### Core Assignment 54 - Mentor Activity III
+
+Completed in class!
 
 #### [](#ca055)
 
@@ -876,7 +896,9 @@ Please revise your essay, based on the detailed feedback you received from the e
 
 #### [](#ca062)
 
-### Core Assignment 62
+### Core Assignment 62 - Scholarship Application Part I Revision 2
+
+Please revise your essay, based on the detailed feedback you received from the essay/resume review process (required), as well as additional feedback from your mentor (optional).  Please use the standard essay template to receive credit.  How do you demonstrate that you deserve to be awarded this scholarship?
 
 #### [](#ca063)
 
@@ -888,6 +910,8 @@ Please revise your essay, based on the detailed feedback you received from the e
 
 ### Core Assignment 64 - Summer Programs and Opportunities
 
+Develop a list of 10 realistic, potential summer programs or activities (internships, jobs, summer programs) to help you prepare for your future.  Please provide a short summary of each activity.  Engineering Innovations is one possibility; it is offered through JHU – they offer full scholarships for students with financial need.  This is required for both rising juniors and rising seniors - if you will have graduated from high school by next summer, think about how you want to spend the time between high school and college.
+
 #### [](#ca065)
 
 ### Core Assignment 65 - Scholarship List
@@ -897,6 +921,15 @@ Make a list of scholarship program to apply to.  You should have at least 25 pro
 #### [](#ca066)
 
 ### Core Assignment 66 - Plan to Pay for College
+
+Please write a detailed plan for how you plan to pay for college.  If you have kept up with your previous assignments, you can use that information and revise that information to form this document!  This is the final CPP assignment for financial aid, and so is where you put everything together.
+
+Please talk with your parents and consider past conversations, as well as what you've learned about financial aid packages and school awards so far.  Do you have a reasonable path to getting school paid for?  Or do you still need to make changes to your approach (becoming a more competitive applicant, choosing schools that offer more awards, looking for and applying to scholarhips...)
+
+Please write us a detailed plan to pay for school, including a self-evaluation and what concrete steps you plan to take to improve.  Minimum 3 full pages.  
+
+**To receive credit, you must have an actionable plan, not just ideas.  Our recommendation is to walk through your overall plan, then a plan for each of your schools, then a timeline (by month) that you plan to follow to get where you are going.**
+
 
 #### [](#ca067)
 
@@ -942,9 +975,13 @@ A recommended format is included [here](/cppbook/assets/next_steps_template.doc)
 
 ### Core Assignment 69 - Self Reflection 7
 
+These assignments will be individually assigned.  Check your email!  Your response should be 2 pages minimum double-spaced, and should include the prompt.  You do not need to use the essay template or get reviewers.
+
 #### [](#ca070)
 
 ### Core Assignment 70 - Mentor Activity IV
+
+This is completed in class!
 
 #### [](#ca071)
 
@@ -985,6 +1022,8 @@ For this portfolio check please continue to work on formatting and organization 
 
 ### Core Assignment 72 - Student Portfolio 1st Draft
 
+Will be posted shortly!
+
 #### [](#ca073)
 
 ### Core Assignment 73 - Scholarship Application Part I Revision 3
@@ -1009,13 +1048,43 @@ For this portfolio check please continue to work on formatting and organization 
 
 ### Core Assignment 78 - Recommender List
 
+One really important part of your applications is your recommendation letters.  Although there are exceptions, here are some basic rules:
+
+- Choose teachers that know you well.
+- Ask each recommender if they “have time to write you a strong recommendation.”  This gives them an opportunity to say no, and helps to make sure that all of your recommendations are really good.
+- Typically you will want to choose at least 2 academic teachers that you had in class in 10th or 11th grade.  (Check college requirements.)  Someone who taught you science, math, or engineering would be a good choice for at least one letter.
+- You will also want to identify club and community organization leaders who know you outside of school and can speak to your accomplishments.  These letters should not replace your core academic letters.
+- Often schools will also want to have a letter from your guidance counselor.
+- Make it easy on your recommenders.  Be professional!  Bring your resume, all of the materials your teacher needs for each school (form+stamped envelope or website URL or…), and the due date.  Ask AT LEAST 6 weeks ahead, 8 weeks is better.  4 weeks is an absolute minimum (for a teacher you haven’t asked before) – once you’ve gotten one letter from a teacher, 4 weeks ahead is a good timeframe.
+
+To complete this assignment, please list 6 potential recommenders, and give a short (2 sentence) explanation of how you know them and why you chose that person.  You should feel confident that each teacher knows you well and that they will write you a good letter!  At least 3 of these recommenders should be academic teachers.  Additionally, one should be a guidance/career counselor.  You may need him/her to fill out forms, and you can have them write one of your letters if you know them well.  You should not list family members.
+
+
 #### [](#ca079)
 
 ### Core Assignment 79 - College List Final
 
+Choose your final list of 12 schools.  Include application dates and requirements.  Please remember to apply to a wide range of schools and follow your DRMS! 2D, 4R, 4M, 2S.  Your list MUST match your current qualifications; you are invited to make a second list based on where you expect to be by the time you apply.  
+
+
 #### [](#ca080)
 
 ### Core Assignment 80 - Outreach Ideas
+
+As you grow and begin to achieve your dreams, it is very important to always remember to give back to your community.  Please identify an area or cause to which you would like to contribute, and describe why it is important to you.
+
+Put together a 1-2 page proposal of an action you can take during the upcoming school year to begin to address this issue.  State the broader problem, why it is important, and included the specific steps you plan to take to make a difference.  Include the resources you need to make your vision possible.
+
+- Topic
+- Background and Problem Description
+- Why do you want to contribute?
+- Your Past Involvement?  *What have you already done?  Have you read about the problem?  Started an organization?  Volunteered to help somewhere?  Or are you just getting started?  If significant, how much time have you spent?*
+- How would you like to contribute during the upcoming school year? (Be specific – 2-3 paragraphs describing your idea for how to make a difference.  What specific steps would you take?)
+- What resources will you need to make this happen?  *Consider: School/student organization support, Teacher/Mentor support, Knowledge, Other student support, Financial Support, Time Required*
+- What barriers will you face, and how will you overcome them?
+- How will you exhibit leadership in this role?
+- How will you measure success?
+- Are you interested in being considered for the “Best Idea” award?  *Winners are expected to meet with CPP advisors to refine their ideas, and then actually implement their vision!  We will help you overcome your barriers and make your idea a reality!*
 
 #### [](#ca081)
 
