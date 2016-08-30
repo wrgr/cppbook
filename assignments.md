@@ -1022,7 +1022,19 @@ For this portfolio check please continue to work on formatting and organization 
 
 ### Core Assignment 72 - Student Portfolio 1st Draft
 
-Will be posted shortly!
+For the assignment, begin to finalize your portfolio by completing all sections (I - XI) as described in the [portfolio template](https://drive.google.com/file/d/0BwvvsVXUJv7JMjJsVER6SjNyd1U/).  Your portfolio must be polished for this submission. The only place holders you should have are for sections that are related to assignments due on 9/09. Please work with your mentor to ensure that your portfolio is professionally formatted. Lastly, remember to meet the minimum paragraph requirement, 1-2 sentences answer is not acceptable.
+
+Below are formatting requirements that you will be reviewed against
+
+- Must have a main cover page, creative cover page with graphics are highly encouraged
+- Must have a table of contents
+- Each section must be separate by a section cover page
+- Subsections (topics within a section) must be clearly formatted with bold heading
+- Paragraphs must be double spaced
+- Font type must be consistent across the entire portfolio
+- Tables must be professionally formatted and consistent across the entire portfolio
+- Page number must be on the bottom right of each page
+- Place holders should be in red font surrounded by square brackets [this is a page holder]
 
 #### [](#ca073)
 
