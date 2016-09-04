@@ -1038,23 +1038,55 @@ Below are formatting requirements that you will be reviewed against
 
 #### [](#ca073)
 
-### Core Assignment 73 - Scholarship Application Part I Revision 3
+### Core Assignment 73 - GPA Calculator
+
+Please manually compute your UNWEIGHTED GPA for your:
+
+(1) current high school record
+(2) your estimated gpa by end of fall senior year (your application gpa)
+
+Make sure that you consider the hours associated with each class, and only count first semester senior year as half-credits/class.
+
+A worksheet to help is [here](http://matherhs.org/pdf/How%20to%20Calculate%20Your%20GPA.pdf).  Make sure you use the point values for regular classes.
+
+You should upload both your GPA and calculations.  If you prefer to bring the calculations to class, that's ok, but please at least upload GPA.
+
+Sample:  
+
+- Current unweighted GPA (through the end of the last school year):  _______
+- Estimated unweighted GPA (through fall senior year - my application GPA): _____
+
+I computed this by estimating that I would make the following grades in each class ____________.
+
+
+If you have a 4.0 unweighted GPA, you may receive credit by uploading a document that says "I have a 4.0 unweighted GPA and am excused from this assignment." :)
+
+We're here to help on the forums!
+
 
 #### [](#ca074)
 
-### Core Assignment 74 - Scholarship Application Part II Revision 3
+### Core Assignment 74 - Scholarship Activity III
+
+Using the forms you already filled out in class or self-reflections (or looking for new scholarships online), please fill out at least 8 scholarships in [this spreadsheet](https://docs.google.com/a/collegeprepprogram.org/spreadsheets/d/1JXcQF8moqxxjJaoVz7GO_Td5goUaAZ68BGDes8VJ6U0/edit?usp=sharing).  This used to be bonus, but no one earned it - prior rows you filled out *will count* toward this assignment.  You may either enter a new scholarship or significantly improve/edit one that's already there.  If we all do this, we'll have well over 100 programs that you can apply to!!!   
 
 #### [](#ca075)
 
 ### Core Assignment 75 - UMCP Application Essay Revision 2
 
+Revise this essay using the CPP template, taking into account feedback from your mentors and reviewers.  This is the final draft of this assignment for CPP, so make it count!
+
 #### [](#ca076)
 
 ### Core Assignment 76 - Student Portfolio Final
 
+Turn in a final, polished portfolio, including the common app and all assignments from CPP.  We will discuss exact requirements during our next class!
+
 #### [](#ca077)
 
 ### Core Assignment 77 - Resume Revision 3
+
+Revise your resume using the CPP template, taking into account feedback from your mentors and reviewers.  This is the final draft of this assignment for CPP, so make it count!
 
 #### [](#ca078)
 
@@ -1077,6 +1109,8 @@ To complete this assignment, please list 6 potential recommenders, and give a sh
 ### Core Assignment 79 - College List Final
 
 Choose your final list of 12 schools.  Include application dates and requirements.  Please remember to apply to a wide range of schools and follow your DRMS! 2D, 4R, 4M, 2S.  Your list MUST match your current qualifications; you are invited to make a second list based on where you expect to be by the time you apply.  
+
+Please wait to complete this until you receive feedback from CPP (by Monday latest)
 
 
 #### [](#ca080)
@@ -1102,18 +1136,45 @@ Put together a 1-2 page proposal of an action you can take during the upcoming s
 
 ### Core Assignment 81 - Next Steps after CPP: Action Plan Draft 2
 
+Please revise your action plan that you developed previously.  Make sure you get feedback from your classmates, family and/or mentors.  Or post on the forum if you are stuck.  Make sure that your action plan is measurable and has tasks that are broken down into things you can imagine accomplishing.  I like checklists by month.  This will help you stay on track after CPP is over!
+
 #### [](#ca082)
 
 ### Core Assignment 82 - Mentor Activity V
+
+Completed in class.
 
 #### [](#ca083)
 
 ### Core Assignment 83 - Self Reflection 8
 
+For this week's self-reflection, you will analyze two college essays from the following website:
+
+https://apply.jhu.edu/apply/essays-that-worked/
+
+Instructions:
+
+- Select two essays (they can be from any of the years linked to the page) and read each one, including the comment from the admission's officer below the essay.
+- Answer the following questions for each essay that you read:
+* Did the essay tell a story about the author? Does it include dialogue, either internal or with other characters? Does it include detailed descriptions of people or places, using adjectives and creative language?
+* Could you picture the protagonist of the essay in your head?  What are his/her qualities that stand out? Name at least two qualities that were SHOWN, not just described in the essay.
+* What did you learn about this candidate from this essay that perhaps is not included in a resume or other parts of the application?
+* What do you think the author is trying to highlight about themselves through this essay? (ie. personality, character, achievements, goals, why they want to attend JHU)
+* What kind of emotions did this essay evoke as the reader?  
+- Finally, answer the following questions regarding this activity:
+* What specific tips or ideas do you have for your own essays after reviewing some of these "winning" essays?
+* List a few anecdotes that you could use for your essays (at least 3).  You don't have to write the whole thing out, just one sentence describing each (e.g. the day my sister read the word "ba-na-na" after weeks of teaching her to read, the time I spilled coffee on Mr. Teacher to save my science project and days of hard work by my team, etc)
+* Discuss your college essay writing strengths and how these can help you write a winning essay
+* Discuss any obstacles that you are facing with your college essays and what you will do to overcome these obstacles.
+
 #### [](#ca084)
 
 ### Core Assignment 84 - Self Reflection 9
 
+Will be announced in class.
+
 #### [](#ca085)
 
 ### Core Assignment 85 - Mentor Activity VI
+
+Interview workshop, to be completed in class!
